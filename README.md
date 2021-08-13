@@ -22,3 +22,7 @@ Louise's wants to analyze performing analysis on Kickstarter data to uncover tre
 
 ## Recomendations
 
+   * Based on the launch date, we can say that May is the most successful month for the theater category.
+   * October is a month where theater shows are usually not canceled.
+   * Based on the outcome "Plays" is the most successful subcategory for theaters.
+   * We can have two points in the data that could be considered outliers. It is important to analyze them in detail to understand what could happen.
