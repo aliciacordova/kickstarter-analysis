@@ -14,7 +14,7 @@ Louse's will understand the most satisfactory period of months for theatrical re
 
 ![Theather_Outcomer_vs_Launch](https://user-images.githubusercontent.com/87447639/130127855-bfabda19-5f4b-4e1f-8695-1c0614f9e8cb.PNG)
 
-It can be observed in the analysis how the month of May represents the largest number of shows that are presented in theaters with a total of 166. Of which 111 (67%) of them have turned out to be successful and 52 (31%) of them a failure to meet the estimated goal for each one of them. Only 3 (2%) shows were canceled in May. 
+It can be observed in the analysis how the month of May represents the highest peak of number of shows (successful and failed) that are presented in theaters. With a total of 166 of shows 111 (67%) of them have turned out to be successful and 52 (31%) of them a failure to meet the estimated goal for each one of them. Only 3 (2%) shows were canceled in May. 
 
 In second position we could indicate that June would be the next month with the best outcome bases on launch date for theaters.
 
@@ -24,11 +24,11 @@ Additionally, it is observed that October is a month where theater shows are usu
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/87447639/130127957-418dc383-ba6b-4195-bf27-551a851d64d2.PNG)
 
-The analysis of results based on goals in theaters for the subcategory of "plays", showed that the highest number of projects are found in those that have a goal between the range of "1000 to 4999".
+The analysis of results based on goals in theaters for the subcategory of "plays", showed that the highest number of projects (534) are found in those that have a goal between the range of "1,000 to 4,999".
 
-In the case of successful projects, despite the fact that the highest number of shows that successfully reached the goal were between the range of “1000 to 4999” (with a total of 388 plays), they did not represent the highest percentage of success (which was 73%) among the 694 successful plays that were made. Therefore, the range that targeted “Less than 1000” achieved a 76% success rate versus the other ranges.
+In the case of successful projects, despite the fact that the highest number of shows that successfully reached the goal were between the range of “1,000 to 4,999” (with a total of 388 plays), they did not represent the highest percentage of success (which was 73%) among the 694 successful plays that were made. Therefore, the range that targeted “Less than 1,000” achieved a 76% success rate versus the other ranges.
 
-For the projects that failed by not meeting the goal established between the range of "45000 to 49999", the graph shows us how the highest percentage of failure is raised by this range, since it represents 100%. In this case there was only one project for that category.
+For the projects that failed by not meeting the goal established between the range of "45,000 to 49,999", the graph shows us how the highest percentage of failure is raised by this range, since it represents 100%. In this case there was only one project for that category.
 
 Additionally, it is observed that “Plays” in theater are not usually canceled.
 
@@ -52,7 +52,7 @@ In addition, the data only shows a period of time, so the specific criteria used
 
 - What can you conclude about the Outcomes based on Goals?
 
-    * Based on the goal, we can say that the lower the range established for the goal in the projects (less than 5000) the percentage of success will be much higher.
+    * Based on the goal, we can say that the lower the range established for the goal in the projects (less than 5,000) the percentage of success will be much higher.
 
 
 - What are some limitations of this dataset?
