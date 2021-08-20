@@ -59,7 +59,7 @@ In addition, the data only shows a period of time, so the specific criteria used
 
     * In this way, it is important to highlight that in the results for these analysis we cannot generalize to complete category of “theaters” since there is data missing. Like others subcategories and outcomes.
 
-    * We can have two points in the data that could be considered outliers. It is important to analyze them in detail to understand what could happen.
+    * We can have two datapoints that could be considered outliers. It is important to analyze them in detail to understand what could happen.
 
     ![Boxplots](https://user-images.githubusercontent.com/87447639/129369572-a4e677de-f65b-436e-9e83-fd561ac5b990.PNG)
 
